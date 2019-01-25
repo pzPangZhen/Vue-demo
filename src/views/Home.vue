@@ -4,7 +4,8 @@
         class="el-menu-demo" mode="horizontal" background-color="#091e9e"
         text-color="#fff" active-text-color="#ffd04b">
         <el-menu-item index="1" style="pointer-events: none">
-            <img src="../assets/logo.png" height="62" width="385">
+            <!-- <img src="../assets/logo.png" height="62" width="385"> -->
+            <h2>未来有机会上市有限公司</h2>
         </el-menu-item>
         <el-menu-item index="2" style="margin-left: 10%">首页</el-menu-item>
         <el-menu-item index="3">关于我们</el-menu-item>
@@ -31,8 +32,8 @@
     </div>
     <div class="footer">
       <div>
-            版权所有：陕西科大高新教育科技投资有限公司 电话：029-81552035<br>
-             西安市长安区子午大道中段39号　邮编：710109
+            版权所有：未来有机会上市有限公司 电话：029<br>
+             长安　
         </div>
     </div>
   </div>
